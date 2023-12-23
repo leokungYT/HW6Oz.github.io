@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+    align-items: center;
+    margin-top: 5%;
+}
+.oz{
+    width: 400px;
+    height: 55px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    background: rgb(138, 138, 138);
+    margin-top: 5%;
+
+}
+.oz > * {
+    font-size: 32px;
+    
+  }
+.btn1{
+    width: 99px;
+    height: 55px;
+}
+.btn2{
+    width: 99px;
+    height: 55px;
+}
+.btn3{
+    width: 103px;
+    height: 55px;
+}
+.number{
+    margin-top: 15px;
+    width: 99px;
+    height: 55px;
+}
